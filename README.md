@@ -1,4 +1,4 @@
-![IRL-TD](/public/img/favicon.ico)
+![IRL-TD](/app/public/img/favicon.ico)
 
 # IRL-TD
 
