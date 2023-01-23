@@ -17,6 +17,6 @@
     "mocha": "~1.8.1",
     "should": "~1.2.0",
     "npmedge": "~0.1.1",
-    "superagent": "~0.12.4"
+    "superagent": "~8.0.8"
   }
 }
